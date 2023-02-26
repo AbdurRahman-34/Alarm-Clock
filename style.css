@@ -54,7 +54,7 @@ body, .wrapper, .content{
     border-radius: 4px;
     justify-content: space-around;
     color: rgb(0, 0, 0);
-    background: #f1f1f187;
+    background: #ededed;
     font-size: 14px;
 }
 .wrapper button {
